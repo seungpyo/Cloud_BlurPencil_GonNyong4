@@ -227,6 +227,24 @@ $ (root) npm start
 </p>
 <img src = "./example3.png" width = "1024">
 <p align="left">
+	
+### Demo Image 4
+
+</p>
+<img src = "demo/demo1.png" width = "1024">
+<p align="left">
+	
+### Demo Image 5
+
+</p>
+<img src = "demo/demo2.png" width = "1024">
+<p align="left">
+	
+### Demo Image 6
+
+</p>
+<img src = "demo/demo3.png" width = "1024">
+<p align="left">
 
 ## Blur Pencil 기대 효과
 - 빠르고 편리한 자동 검열 기능을 통해 보안 취약점과 저작권 침해 등을 보완할 수 있다.
